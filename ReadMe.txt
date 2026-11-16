@@ -1,0 +1,1 @@
+cd папка , python -m venv venv , pip install playwright ,  python its03_collector.py
