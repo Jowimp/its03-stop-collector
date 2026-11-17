@@ -4,6 +4,7 @@ cd C:\Users\HQD\Desktop\its03-stop-collector
 python -m venv venv
 venv\Scripts\activate
 python -m pip install playwright
+pip install pandas openpyxl
 python its03_collector.py
 
 **Структура таблицы:**
